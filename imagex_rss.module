@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the imagex_rss feature.
+ */
+
+include_once 'imagex_rss.features.inc';
